@@ -1,0 +1,13 @@
+TCR-Stock-Forecasting/
+├── README.md
+├── requirements.txt
+├── config.py
+├── main.py
+├── tcr_model.py
+├── baseline_models.py
+├── data_integration.py
+├── benchmarking.py
+├── visualization.py
+├── notebooks/
+│   └── tutorial.ipynb
+└── results/
